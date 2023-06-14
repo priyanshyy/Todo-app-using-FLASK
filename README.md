@@ -5,9 +5,15 @@ You can also update and delete your tasks.
 
 Tech stack used:
 Python
+
 HTML
+
 CSS
+
 Bootstrap
+
 flask
+
 flask_sqlalchemy
+
 Jinja2
